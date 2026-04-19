@@ -1,8 +1,8 @@
-# Skill Name
-
+---
 name: test-skill
 description: A test skill for demonstration
+---
 
-## Instructions
+# Test Skill
 
-This is a test skill.
+This is a test skill for demonstration.
